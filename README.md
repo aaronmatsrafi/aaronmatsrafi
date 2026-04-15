@@ -1,6 +1,6 @@
 # Hi, I'm Aharon Moshe 👋
 
-🚀 I'm a motivated and disciplined web development student  
+🚀 I'm a motivated and disciplined web development student
 💻 Currently learning JavaScript, HTML, and CSS  
 🔥 Passionate about growth, success, and building real projects  
 
