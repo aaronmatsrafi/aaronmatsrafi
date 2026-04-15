@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Aharon Moshe 👋
 
-<!--
-**aaronmatsrafi/aaronmatsrafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I'm a motivated and disciplined web development student  
+💻 Currently learning JavaScript, HTML, and CSS  
+🔥 Passionate about growth, success, and building real projects  
 
-Here are some ideas to get you started:
+## What I'm doing right now
+- 🛠 Working on web development projects
+- 📚 Learning JavaScript deeply (DOM, events, logic)
+- 🎯 Improving my problem-solving skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goals
+- Become a professional developer
+- Build strong portfolio projects
+- Work as a programmer in the US 🇺🇸
+
+## Skills
+- HTML
+- CSS
+- JavaScript (in progress)
+
+## Contact
+- 📫 You can reach me here on GitHub
+
+## Fun fact
+⚡ I train breakdance and push myself every single day
