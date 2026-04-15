@@ -24,3 +24,7 @@
 
 ## Fun fact
 ⚡ I train breakdance and push myself every single day
+
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aaronmatsrafi&show_icons=true)
